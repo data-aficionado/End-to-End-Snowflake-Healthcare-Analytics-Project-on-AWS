@@ -1,3 +1,4 @@
+
 # End to End Healthcare Analytics using Snowflake and AWS
 
 ## Overview
@@ -67,4 +68,3 @@ End-to-End-Snowflake-Healthcare-Analytics-Project-on-AWS/
         ├── Snowflake-EDA.sql                     # SQL file for EDA
         ├── Snowflake-Feature Engineering.sql     # SQL file for feature engineering
         └── Snowflake-Scoring Script.sql          # SQL file for scoring script
-
