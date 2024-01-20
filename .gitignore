@@ -1,0 +1,130 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pyenv
+.python-version
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# profiling data
+.prof
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# SQL files
+# Uncomment the next line if you have SQL scripts you want to track
+# *.sql
+
+# SQL data files
+# Uncomment if you want to ignore SQL data files
+# *.sql.gz
+# *.dump
+
+# Snowflake credentials and configuration
+# Make sure to ignore any file containing sensitive information
+snowflake_config.ini
+
+# AWS configuration
+# Ignore AWS credential files to avoid accidental exposure
+.aws/
+
+# Data Files
+# Ignore data files, especially if they are large or sensitive
+# data/
+# *.csv
+# *.json
+# *.xml
+
+# Log files
+*.log
+
+# Other large files
+# Uncomment to ignore other large files that should not be tracked
+# *.zip
+# *.tar.gz
